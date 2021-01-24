@@ -22,4 +22,4 @@ function createAnalytics() {
 
 window.analytics = createAnalytics()
 
-console.log(window.analytics.getClicks())
+console.log(window.analytics.getClicks(), 'd')

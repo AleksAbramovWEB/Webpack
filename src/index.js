@@ -1,6 +1,6 @@
-// import './analytics'
-
-
+import * as $ from 'jquery'
+global.jQuery = $;
+global.$ = $;
 
 import Post from "./post";
 
