@@ -1,0 +1,6 @@
+@import "~normalize.css";
+
+body {
+    background-color: bisque;
+    background-image: url("../assets/admon.png");
+}
